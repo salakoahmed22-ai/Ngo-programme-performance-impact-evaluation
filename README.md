@@ -70,8 +70,10 @@ This is a simulated portfolio project created for demonstration and learning pur
 
 Project Screenshots
 
-Data Quality.png
+## Project Screenshots
 
-Executive Dashboard Screenshot.png
+### Executive Dashboard
+![Executive Dashboard](Executive%20Dashboard%20Screenshot.png)
 
-Executive.png
+### Data Quality
+![Data Quality](Data%20Quality.png)
