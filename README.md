@@ -67,3 +67,14 @@ This project demonstrates the practical application of M&E and data analysis ski
 Note:
 
 This is a simulated portfolio project created for demonstration and learning purposes. The programme, organisation and beneficiary data are fictional.
+
+Project Screenshots
+
+Executive Dashboard
+
+"Executive Dashboard" (executive-dashboard.png)
+
+Data Quality
+
+"Data Quality" (data-quality.png)
+
